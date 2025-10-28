@@ -171,10 +171,6 @@ python devlop_home/main.py devlop_data/question.json devlop_result/answer.json
 - **数据库连接超时**：程序会自动重试，如持续失败请检查网络连接
 - **内存错误**：对于大量数据查询，可能需要增加内存限制
 
-## 许可证
-
-[MIT License](LICENSE)
-
 ## 作者
 
 lkp
